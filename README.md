@@ -1,6 +1,6 @@
 # Project Restaurant Orders
 
-Esse foi o último projeto da Trybe, nele aprendi a utilização da estrutura de dados do hashmap, dict e sets. Com este conhecimento eu fui capa de realizar os requistos da Trybe
+Este foi o último projeto que realizei na Trybe, e nele tive a oportunidade de aprofundar meus conhecimentos em estrutura de dados, aprendendo sobre hashmaps, dicionários e conjuntos (sets). Com essa bagagem, pude concluir os requisitos propostos pela Trybe.
 
 # Os requisito são 
 
